@@ -3,7 +3,7 @@
 <h3>NAME : JANANI S</h3>
 <h3>REG NO : 212223230086</h3>
 <h3>EX. NO 5</h3>
-<h3>DATE</h3>
+<h3>DATE : 09/11/2025</h3>
 <h1> <align=center> MATRIX MULTIPLICATION USING CUDA </h3>
   Implement Matrix Multiplication using GPU.</h3>
 
